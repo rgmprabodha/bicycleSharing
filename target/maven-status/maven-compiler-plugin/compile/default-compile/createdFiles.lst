@@ -1,0 +1,6 @@
+com\emse\bicycleSharingStations\model\AjaxResponseBody.class
+com\emse\bicycleSharingStations\service\BicycleStationService.class
+com\emse\bicycleSharingStations\BicycleSharingStationsApplication.class
+com\emse\bicycleSharingStations\controller\BicycleStationController.class
+com\emse\bicycleSharingStations\controller\SearchController.class
+com\emse\bicycleSharingStations\model\BicycleStation.class
